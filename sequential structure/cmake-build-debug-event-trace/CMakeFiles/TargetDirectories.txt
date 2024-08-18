@@ -1,0 +1,17 @@
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/B2002.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/B2005.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/B2025.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/B2029.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P1001.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P1008.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P1421.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P1425.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P3954.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5703.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5704.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5705.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5706.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5707.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/P5708.cpp.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+/Users/zhaotianyou/Desktop/code/luogu/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sequential_structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B2002.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2002.cpp-Debug-b2345eb4eb4c3a6731b8.json",
+					"name" : "B2002.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2005.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2005.cpp-Debug-d06e17a69372e8ce793f.json",
+					"name" : "B2005.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2025.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2025.cpp-Debug-a9e736ae7411813b03cc.json",
+					"name" : "B2025.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2029.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2029.cpp-Debug-add51a92982aee42b9cb.json",
+					"name" : "B2029.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1001.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1001.cpp-Debug-7cb56497dafe1e2dd128.json",
+					"name" : "P1001.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1008.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1008.cpp-Debug-2464e8ea51382f783a0e.json",
+					"name" : "P1008.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1421.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1421.cpp-Debug-c24fdffeec077ff77bdc.json",
+					"name" : "P1421.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1425.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1425.cpp-Debug-10a60316d9b69ff502a4.json",
+					"name" : "P1425.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P3954.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3954.cpp-Debug-eed4477642ab59a7456d.json",
+					"name" : "P3954.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5703.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5703.cpp-Debug-1d46b373e59e51c2427a.json",
+					"name" : "P5703.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5704.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5704.cpp-Debug-06503c4a9945ac6fd5d4.json",
+					"name" : "P5704.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5705.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5705.cpp-Debug-b5783b453144b7d8e5ae.json",
+					"name" : "P5705.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5706.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5706.cpp-Debug-78572b22570210e7ed9c.json",
+					"name" : "P5706.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5707.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5707.cpp-Debug-1dde907300acd2f09964.json",
+					"name" : "P5707.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5708.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5708.cpp-Debug-7c18403ddf5238458cd7.json",
+					"name" : "P5708.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/sequential structure/cmake-build-debug",
+		"source" : "/Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/sequential structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
