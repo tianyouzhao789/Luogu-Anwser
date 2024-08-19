@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "branch_structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "123.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-123.cpp-Debug-6efb60de4d5f2054c4c7.json",
+					"name" : "123.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1046.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1046.cpp-Debug-6b9b71bed6078038d854.json",
+					"name" : "P1046.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1055.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1055.cpp-Debug-ba5b7d68cee39797ab2a.json",
+					"name" : "P1055.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1085.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1085.cpp-Debug-54f87cee4322e3e56248.json",
+					"name" : "P1085.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1422.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1422.cpp-Debug-22075c8a0b29b94c2fc3.json",
+					"name" : "P1422.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1424.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1424.cpp-Debug-27dbfe3c763365d9b26f.json",
+					"name" : "P1424.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1888.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1888.cpp-Debug-6fdd18e3f903f1239c03.json",
+					"name" : "P1888.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1909.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1909.cpp-Debug-811de1aca9d9b01b4b79.json",
+					"name" : "P1909.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P2433.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2433.cpp-Debug-06608289f5f4d6fa363c.json",
+					"name" : "P2433.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P4414.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P4414.cpp-Debug-bc8549569025b25e1d8e.json",
+					"name" : "P4414.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5709.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5709.cpp-Debug-8156a5a908433bf79238.json",
+					"name" : "P5709.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5710.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5710.cpp-Debug-ca928035e77bb72cf388.json",
+					"name" : "P5710.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5711.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5711.cpp-Debug-05924d6142903c0dad3d.json",
+					"name" : "P5711.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5712.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5712.cpp-Debug-3761a3fc105c210d7cac.json",
+					"name" : "P5712.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5713.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5713.cpp-Debug-3503bd56c4549b9aa120.json",
+					"name" : "P5713.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5714.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5714.cpp-Debug-14b847982a39738439f2.json",
+					"name" : "P5714.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5715.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5715.cpp-Debug-041b0b2a3df6fd67027a.json",
+					"name" : "P5715.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5716.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5716.cpp-Debug-790328d853a3f5b0fef4.json",
+					"name" : "P5716.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P5717.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P5717.cpp-Debug-4e027673c76c12e1ed1d.json",
+					"name" : "P5717.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch structure/cmake-build-debug",
+		"source" : "/Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

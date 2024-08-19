@@ -41,35 +41,593 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 123123.cpp
+# Object build statements for EXECUTABLE target 123.cpp
 
 
 #############################################
-# Order-only phony target for 123123.cpp
+# Order-only phony target for 123.cpp
 
-build cmake_object_order_depends_target_123123.cpp: phony || .
+build cmake_object_order_depends_target_123.cpp: phony || .
 
-build CMakeFiles/123123.cpp.dir/123123.cpp.o: CXX_COMPILER__123123.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/123123.cpp || cmake_object_order_depends_target_123123.cpp
-  DEP_FILE = CMakeFiles/123123.cpp.dir/123123.cpp.o.d
+build CMakeFiles/123.cpp.dir/123.cpp.o: CXX_COMPILER__123.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/123.cpp || cmake_object_order_depends_target_123.cpp
+  DEP_FILE = CMakeFiles/123.cpp.dir/123.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/123123.cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/123123.cpp.dir
+  OBJECT_DIR = CMakeFiles/123.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/123.cpp.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 123123.cpp
+# Link build statements for EXECUTABLE target 123.cpp
 
 
 #############################################
-# Link the executable 123123.cpp
+# Link the executable 123.cpp
 
-build 123123.cpp: CXX_EXECUTABLE_LINKER__123123.2ecpp_Debug CMakeFiles/123123.cpp.dir/123123.cpp.o
+build 123.cpp: CXX_EXECUTABLE_LINKER__123.2ecpp_Debug CMakeFiles/123.cpp.dir/123.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
-  OBJECT_DIR = CMakeFiles/123123.cpp.dir
+  OBJECT_DIR = CMakeFiles/123.cpp.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = 123123.cpp
-  TARGET_PDB = 123123.cpp.dbg
+  TARGET_FILE = 123.cpp
+  TARGET_PDB = 123.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1046.cpp
+
+
+#############################################
+# Order-only phony target for P1046.cpp
+
+build cmake_object_order_depends_target_P1046.cpp: phony || .
+
+build CMakeFiles/P1046.cpp.dir/P1046.cpp.o: CXX_COMPILER__P1046.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1046.cpp || cmake_object_order_depends_target_P1046.cpp
+  DEP_FILE = CMakeFiles/P1046.cpp.dir/P1046.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1046.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1046.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1046.cpp
+
+
+#############################################
+# Link the executable P1046.cpp
+
+build P1046.cpp: CXX_EXECUTABLE_LINKER__P1046.2ecpp_Debug CMakeFiles/P1046.cpp.dir/P1046.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1046.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1046.cpp
+  TARGET_PDB = P1046.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1055.cpp
+
+
+#############################################
+# Order-only phony target for P1055.cpp
+
+build cmake_object_order_depends_target_P1055.cpp: phony || .
+
+build CMakeFiles/P1055.cpp.dir/P1055.cpp.o: CXX_COMPILER__P1055.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1055.cpp || cmake_object_order_depends_target_P1055.cpp
+  DEP_FILE = CMakeFiles/P1055.cpp.dir/P1055.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1055.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1055.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1055.cpp
+
+
+#############################################
+# Link the executable P1055.cpp
+
+build P1055.cpp: CXX_EXECUTABLE_LINKER__P1055.2ecpp_Debug CMakeFiles/P1055.cpp.dir/P1055.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1055.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1055.cpp
+  TARGET_PDB = P1055.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1085.cpp
+
+
+#############################################
+# Order-only phony target for P1085.cpp
+
+build cmake_object_order_depends_target_P1085.cpp: phony || .
+
+build CMakeFiles/P1085.cpp.dir/P1085.cpp.o: CXX_COMPILER__P1085.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1085.cpp || cmake_object_order_depends_target_P1085.cpp
+  DEP_FILE = CMakeFiles/P1085.cpp.dir/P1085.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1085.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1085.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1085.cpp
+
+
+#############################################
+# Link the executable P1085.cpp
+
+build P1085.cpp: CXX_EXECUTABLE_LINKER__P1085.2ecpp_Debug CMakeFiles/P1085.cpp.dir/P1085.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1085.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1085.cpp
+  TARGET_PDB = P1085.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1422.cpp
+
+
+#############################################
+# Order-only phony target for P1422.cpp
+
+build cmake_object_order_depends_target_P1422.cpp: phony || .
+
+build CMakeFiles/P1422.cpp.dir/P1422.cpp.o: CXX_COMPILER__P1422.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1422.cpp || cmake_object_order_depends_target_P1422.cpp
+  DEP_FILE = CMakeFiles/P1422.cpp.dir/P1422.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1422.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1422.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1422.cpp
+
+
+#############################################
+# Link the executable P1422.cpp
+
+build P1422.cpp: CXX_EXECUTABLE_LINKER__P1422.2ecpp_Debug CMakeFiles/P1422.cpp.dir/P1422.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1422.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1422.cpp
+  TARGET_PDB = P1422.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1424.cpp
+
+
+#############################################
+# Order-only phony target for P1424.cpp
+
+build cmake_object_order_depends_target_P1424.cpp: phony || .
+
+build CMakeFiles/P1424.cpp.dir/P1424.cpp.o: CXX_COMPILER__P1424.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1424.cpp || cmake_object_order_depends_target_P1424.cpp
+  DEP_FILE = CMakeFiles/P1424.cpp.dir/P1424.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1424.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1424.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1424.cpp
+
+
+#############################################
+# Link the executable P1424.cpp
+
+build P1424.cpp: CXX_EXECUTABLE_LINKER__P1424.2ecpp_Debug CMakeFiles/P1424.cpp.dir/P1424.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1424.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1424.cpp
+  TARGET_PDB = P1424.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1888.cpp
+
+
+#############################################
+# Order-only phony target for P1888.cpp
+
+build cmake_object_order_depends_target_P1888.cpp: phony || .
+
+build CMakeFiles/P1888.cpp.dir/P1888.cpp.o: CXX_COMPILER__P1888.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1888.cpp || cmake_object_order_depends_target_P1888.cpp
+  DEP_FILE = CMakeFiles/P1888.cpp.dir/P1888.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1888.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1888.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1888.cpp
+
+
+#############################################
+# Link the executable P1888.cpp
+
+build P1888.cpp: CXX_EXECUTABLE_LINKER__P1888.2ecpp_Debug CMakeFiles/P1888.cpp.dir/P1888.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1888.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1888.cpp
+  TARGET_PDB = P1888.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P1909.cpp
+
+
+#############################################
+# Order-only phony target for P1909.cpp
+
+build cmake_object_order_depends_target_P1909.cpp: phony || .
+
+build CMakeFiles/P1909.cpp.dir/P1909.cpp.o: CXX_COMPILER__P1909.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P1909.cpp || cmake_object_order_depends_target_P1909.cpp
+  DEP_FILE = CMakeFiles/P1909.cpp.dir/P1909.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P1909.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P1909.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P1909.cpp
+
+
+#############################################
+# Link the executable P1909.cpp
+
+build P1909.cpp: CXX_EXECUTABLE_LINKER__P1909.2ecpp_Debug CMakeFiles/P1909.cpp.dir/P1909.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P1909.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P1909.cpp
+  TARGET_PDB = P1909.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P2433.cpp
+
+
+#############################################
+# Order-only phony target for P2433.cpp
+
+build cmake_object_order_depends_target_P2433.cpp: phony || .
+
+build CMakeFiles/P2433.cpp.dir/P2433.cpp.o: CXX_COMPILER__P2433.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P2433.cpp || cmake_object_order_depends_target_P2433.cpp
+  DEP_FILE = CMakeFiles/P2433.cpp.dir/P2433.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P2433.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P2433.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P2433.cpp
+
+
+#############################################
+# Link the executable P2433.cpp
+
+build P2433.cpp: CXX_EXECUTABLE_LINKER__P2433.2ecpp_Debug CMakeFiles/P2433.cpp.dir/P2433.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P2433.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P2433.cpp
+  TARGET_PDB = P2433.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P4414.cpp
+
+
+#############################################
+# Order-only phony target for P4414.cpp
+
+build cmake_object_order_depends_target_P4414.cpp: phony || .
+
+build CMakeFiles/P4414.cpp.dir/P4414.cpp.o: CXX_COMPILER__P4414.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P4414.cpp || cmake_object_order_depends_target_P4414.cpp
+  DEP_FILE = CMakeFiles/P4414.cpp.dir/P4414.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P4414.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P4414.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P4414.cpp
+
+
+#############################################
+# Link the executable P4414.cpp
+
+build P4414.cpp: CXX_EXECUTABLE_LINKER__P4414.2ecpp_Debug CMakeFiles/P4414.cpp.dir/P4414.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P4414.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P4414.cpp
+  TARGET_PDB = P4414.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5709.cpp
+
+
+#############################################
+# Order-only phony target for P5709.cpp
+
+build cmake_object_order_depends_target_P5709.cpp: phony || .
+
+build CMakeFiles/P5709.cpp.dir/P5709.cpp.o: CXX_COMPILER__P5709.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5709.cpp || cmake_object_order_depends_target_P5709.cpp
+  DEP_FILE = CMakeFiles/P5709.cpp.dir/P5709.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5709.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5709.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5709.cpp
+
+
+#############################################
+# Link the executable P5709.cpp
+
+build P5709.cpp: CXX_EXECUTABLE_LINKER__P5709.2ecpp_Debug CMakeFiles/P5709.cpp.dir/P5709.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5709.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5709.cpp
+  TARGET_PDB = P5709.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5710.cpp
+
+
+#############################################
+# Order-only phony target for P5710.cpp
+
+build cmake_object_order_depends_target_P5710.cpp: phony || .
+
+build CMakeFiles/P5710.cpp.dir/P5710.cpp.o: CXX_COMPILER__P5710.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5710.cpp || cmake_object_order_depends_target_P5710.cpp
+  DEP_FILE = CMakeFiles/P5710.cpp.dir/P5710.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5710.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5710.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5710.cpp
+
+
+#############################################
+# Link the executable P5710.cpp
+
+build P5710.cpp: CXX_EXECUTABLE_LINKER__P5710.2ecpp_Debug CMakeFiles/P5710.cpp.dir/P5710.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5710.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5710.cpp
+  TARGET_PDB = P5710.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5711.cpp
+
+
+#############################################
+# Order-only phony target for P5711.cpp
+
+build cmake_object_order_depends_target_P5711.cpp: phony || .
+
+build CMakeFiles/P5711.cpp.dir/P5711.cpp.o: CXX_COMPILER__P5711.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5711.cpp || cmake_object_order_depends_target_P5711.cpp
+  DEP_FILE = CMakeFiles/P5711.cpp.dir/P5711.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5711.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5711.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5711.cpp
+
+
+#############################################
+# Link the executable P5711.cpp
+
+build P5711.cpp: CXX_EXECUTABLE_LINKER__P5711.2ecpp_Debug CMakeFiles/P5711.cpp.dir/P5711.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5711.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5711.cpp
+  TARGET_PDB = P5711.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5712.cpp
+
+
+#############################################
+# Order-only phony target for P5712.cpp
+
+build cmake_object_order_depends_target_P5712.cpp: phony || .
+
+build CMakeFiles/P5712.cpp.dir/P5712.cpp.o: CXX_COMPILER__P5712.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5712.cpp || cmake_object_order_depends_target_P5712.cpp
+  DEP_FILE = CMakeFiles/P5712.cpp.dir/P5712.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5712.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5712.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5712.cpp
+
+
+#############################################
+# Link the executable P5712.cpp
+
+build P5712.cpp: CXX_EXECUTABLE_LINKER__P5712.2ecpp_Debug CMakeFiles/P5712.cpp.dir/P5712.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5712.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5712.cpp
+  TARGET_PDB = P5712.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5713.cpp
+
+
+#############################################
+# Order-only phony target for P5713.cpp
+
+build cmake_object_order_depends_target_P5713.cpp: phony || .
+
+build CMakeFiles/P5713.cpp.dir/P5713.cpp.o: CXX_COMPILER__P5713.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5713.cpp || cmake_object_order_depends_target_P5713.cpp
+  DEP_FILE = CMakeFiles/P5713.cpp.dir/P5713.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5713.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5713.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5713.cpp
+
+
+#############################################
+# Link the executable P5713.cpp
+
+build P5713.cpp: CXX_EXECUTABLE_LINKER__P5713.2ecpp_Debug CMakeFiles/P5713.cpp.dir/P5713.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5713.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5713.cpp
+  TARGET_PDB = P5713.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5714.cpp
+
+
+#############################################
+# Order-only phony target for P5714.cpp
+
+build cmake_object_order_depends_target_P5714.cpp: phony || .
+
+build CMakeFiles/P5714.cpp.dir/P5714.cpp.o: CXX_COMPILER__P5714.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5714.cpp || cmake_object_order_depends_target_P5714.cpp
+  DEP_FILE = CMakeFiles/P5714.cpp.dir/P5714.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5714.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5714.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5714.cpp
+
+
+#############################################
+# Link the executable P5714.cpp
+
+build P5714.cpp: CXX_EXECUTABLE_LINKER__P5714.2ecpp_Debug CMakeFiles/P5714.cpp.dir/P5714.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5714.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5714.cpp
+  TARGET_PDB = P5714.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5715.cpp
+
+
+#############################################
+# Order-only phony target for P5715.cpp
+
+build cmake_object_order_depends_target_P5715.cpp: phony || .
+
+build CMakeFiles/P5715.cpp.dir/P5715.cpp.o: CXX_COMPILER__P5715.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5715.cpp || cmake_object_order_depends_target_P5715.cpp
+  DEP_FILE = CMakeFiles/P5715.cpp.dir/P5715.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5715.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5715.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5715.cpp
+
+
+#############################################
+# Link the executable P5715.cpp
+
+build P5715.cpp: CXX_EXECUTABLE_LINKER__P5715.2ecpp_Debug CMakeFiles/P5715.cpp.dir/P5715.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5715.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5715.cpp
+  TARGET_PDB = P5715.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5716.cpp
+
+
+#############################################
+# Order-only phony target for P5716.cpp
+
+build cmake_object_order_depends_target_P5716.cpp: phony || .
+
+build CMakeFiles/P5716.cpp.dir/P5716.cpp.o: CXX_COMPILER__P5716.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5716.cpp || cmake_object_order_depends_target_P5716.cpp
+  DEP_FILE = CMakeFiles/P5716.cpp.dir/P5716.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5716.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5716.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5716.cpp
+
+
+#############################################
+# Link the executable P5716.cpp
+
+build P5716.cpp: CXX_EXECUTABLE_LINKER__P5716.2ecpp_Debug CMakeFiles/P5716.cpp.dir/P5716.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5716.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5716.cpp
+  TARGET_PDB = P5716.cpp.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target P5717.cpp
+
+
+#############################################
+# Order-only phony target for P5717.cpp
+
+build cmake_object_order_depends_target_P5717.cpp: phony || .
+
+build CMakeFiles/P5717.cpp.dir/P5717.cpp.o: CXX_COMPILER__P5717.2ecpp_unscanned_Debug /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch$ structure/P5717.cpp || cmake_object_order_depends_target_P5717.cpp
+  DEP_FILE = CMakeFiles/P5717.cpp.dir/P5717.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/P5717.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/P5717.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target P5717.cpp
+
+
+#############################################
+# Link the executable P5717.cpp
+
+build P5717.cpp: CXX_EXECUTABLE_LINKER__P5717.2ecpp_Debug CMakeFiles/P5717.cpp.dir/P5717.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  OBJECT_DIR = CMakeFiles/P5717.cpp.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = P5717.cpp
+  TARGET_PDB = P5717.cpp.dbg
 
 
 #############################################
@@ -105,7 +663,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/zhaotianyou/Desktop/code/luogu/Luogu-Anwser/branch structure/cmake-build-debug
 
-build all: phony 123123.cpp
+build all: phony 123.cpp P1046.cpp P1055.cpp P1085.cpp P1422.cpp P1424.cpp P1888.cpp P1909.cpp P2433.cpp P4414.cpp P5709.cpp P5710.cpp P5711.cpp P5712.cpp P5713.cpp P5714.cpp P5715.cpp P5716.cpp P5717.cpp
 
 # =============================================================================
 # Built-in targets
